@@ -1,0 +1,123 @@
+header{
+	background-image:url(../images/background.jpg);/*imagen de fondo*/
+	height: 800px;
+	background-repeat: no-repeat;
+
+}
+
+
+
+.logo{
+	width: 72px;
+	padding-top: 182px;
+	position: absolute;
+	left: 630px;
+}
+
+
+
+
+
+li{
+	display: table-cell;
+	padding: 38px;
+	padding-top: 22px;
+	text-decoration: none;
+	background: 	#FFFFFF;
+	width: 200px;
+
+
+}
+
+
+a{
+	text-align: center;
+	color: black;
+	text-decoration: none;
+}
+
+
+.p1{
+	color:white;
+	font-size:40px;
+	padding-top: 284px;
+	padding-left: 348px;
+
+	position: absolute;
+	
+}
+
+.p2{
+	color:white;
+	font-size: 28px;
+    padding-top: 324px;
+    padding-left: 379px;
+    position: absolute;
+
+}
+
+h2{
+	color: #BA55D3;
+	text-align: center;
+}
+
+.imagenes{
+	border: 1px solid black;
+	min-height: 7px;
+	padding: 0 14px;
+	float: left;
+	width: 275px;
+	margin-right: 20px;
+}
+
+
+.imgredonda{
+	width: 225px;
+	height: 215px;
+	border: 2px solid #BA55D3;;
+	margin: 3px;
+	padding: 0px;
+	border-radius:50%;
+	overflow: hidden;
+	position: relative;
+	top:10px;
+	left:10px;
+
+
+}
+
+.footer{
+
+}
+
+
+
+
+.imgsocial{
+
+	margin padding: 10px;
+}
+
+.parrafo{
+	color: #BA55D3;
+	font-size: 28px;
+	text-align: center;
+
+}
+.psocial{
+	color: #BA55D3;
+	font-size: 20px;
+	text-align: center;
+}
+
+	
+
+
+
+
+
+
+
+
+
+
